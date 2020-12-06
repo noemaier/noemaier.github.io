@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Herzlich Willkommen
 
 You can use the [editor on GitHub](https://github.com/noemaier/noemaier.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
