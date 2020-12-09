@@ -7,7 +7,12 @@ image: 01.jpg
 
 Peter Nömaier
 
-Sigmung Freud Privatstiftung
+# work
+Sigmund Freud Foundation
+Chairman of the board 2016 - present
+Business Director 2014 - present
+
+
 
 # Education
 
