@@ -2,7 +2,7 @@
 layout: post
 title:  "Test!"
 date:   2020-12-09 18:05:55 +0300
-image:  10.jpg
+image:  01.jpg
 tags:   Test
 ---
 
