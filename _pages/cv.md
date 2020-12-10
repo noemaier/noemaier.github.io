@@ -46,6 +46,24 @@ Master of Arts in Business (MA) - Executive Management, FH Wien - Vienna Univers
 
 Degree in Communications and Political Science, University of Vienna - 2004
 
+# Skills
+
+
+Leadership and Team Management
+
+Fund Raising
+
+Construction Management
+
+Project Management small and large scale
+
+Corporate Communications online and off-line including campaigns and social media
+
+Finance Management
+
+Moderation and Representation
+
+
 
 
 https://kramdown.gettalong.org/quickref.html
