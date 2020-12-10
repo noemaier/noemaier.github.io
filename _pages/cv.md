@@ -35,7 +35,7 @@ Renovation and Refurbishment project - responsible for project, including especi
 
 Conception, set-up and follow-through of crowdfunding campaign https://freud.wemakeit.com - awarded with the Austrian Fundraising Award 2018
 
-2. Multi Art PR Agency
+##  Multi Art PR Agency
 
 Manager 2005
 
