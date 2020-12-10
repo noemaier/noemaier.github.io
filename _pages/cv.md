@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-image: 01.jpg
+image: image_11.jpg
 ---
 
 Peter Nömaier
