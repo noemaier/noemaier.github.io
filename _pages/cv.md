@@ -23,6 +23,8 @@ Department Head Museum and Communications 2008 - 2015
 
 Head of Communications 2006 - 2007
 
+Board Member American Friends of the Sigmund Freud Museun, New York City 2016 - present
+
 ### Projects
 
 Sigmund Freud Museum 2020 - 2017 - 2020:
@@ -31,7 +33,7 @@ Renovation and Refurbishment project - responsible for project, including especi
 
 #freud2020 fund raising campaign
 
-Design, coordination and set-up including follow-through and follow-up of crowdfunding campaign on wemakeit.com - awarded with the Austrian Fundraising Award 2018
+Conception, set-up and follow-through of crowdfunding campaign https://freud.wemakeit.com - awarded with the Austrian Fundraising Award 2018
 
 2. Multi Art PR Agency
 
@@ -39,5 +41,11 @@ Manager 2005
 
 
 # Education
+
+Master of Arts in Business (MA) - Executive Management, FH Wien - Vienna University of Applied Science - 2012
+
+Degree in Communications and Political Science, University of Vienna - 2004
+
+
 
 https://kramdown.gettalong.org/quickref.html
