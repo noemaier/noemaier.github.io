@@ -57,6 +57,13 @@ Degree in Communications and Political Science, University of Vienna - 2004
 
 # Skills
 
+##Languages 
+
+German: Aber klar doch
+
+English: IELTS Score 8.0 (Very Good User) = CEFR C2
+
+##Soft Skills and Experience
 
 Leadership and Team Management
 
