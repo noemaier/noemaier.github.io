@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-12-09 18:05:55 +0300
+image:  11.jpg
+tags:   Welcome
+---
+
+So this is my website, which will be permanently updated until I reached a level that seems concise.
+
+Informaiton about me, Peter Noemaier, and my different endeavours. Will be bilangual, currently mostly English.
+
+If any questions occur, reach out to peter@noemaier.com
+
