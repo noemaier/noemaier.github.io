@@ -2,7 +2,7 @@
 layout: page
 title: Personal
 permalink: /personal/
-image: 01.jpg
+image: 12.jpg
 ---
 
 Born 1980 Ried im Innkreis
