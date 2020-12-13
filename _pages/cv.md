@@ -35,6 +35,11 @@ Renovation and Refurbishment project - responsible for project, including especi
 
 Conception, set-up and follow-through of crowdfunding campaign https://freud.wemakeit.com - awarded with the Austrian Fundraising Award 2018
 
+Fund raising online and offline, including Events in Vienna and New York City
+
+Planning and set-up of events, conferences, galas and congresses
+
+
 ##  Multi Art PR Agency
 
 Manager 2005
@@ -42,7 +47,11 @@ Manager 2005
 
 # Education
 
+Course The Art and Science of the American Fundraising Model, King Baudoin Foundation US, New York City, 2017
+
 Master of Arts in Business (MA) - Executive Management, FH Wien - Vienna University of Applied Science - 2012
+
+College Leadership, WIFI Vienna, 2008
 
 Degree in Communications and Political Science, University of Vienna - 2004
 
@@ -51,13 +60,17 @@ Degree in Communications and Political Science, University of Vienna - 2004
 
 Leadership and Team Management
 
+Strategic Management
+
 Fund Raising
 
-Construction Management
+Construction Project Management
 
 Project Management small and large scale
 
 Corporate Communications online and off-line including campaigns and social media
+
+Brand Management and Corporate Design
 
 Finance Management
 
