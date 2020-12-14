@@ -29,15 +29,15 @@ www.freud-museum.at
 
 * Sigmund Freud Museum 2020 - 2017 - 2020:
 
-Renovation and Refurbishment project - responsible for project, including especially financial and organisaitonal aspects and coordination and control of construction work and companies. Including negotiations and contracting as well as communication with donors and supporters private and public. Volume: 4 million Euros.
+** Renovation and Refurbishment project - responsible for project, including especially financial and organisaitonal aspects and coordination and control of construction work and companies. Including negotiations and contracting as well as communication with donors and supporters private and public. Volume: 4 million Euros.
 
 * General Management of the Sigmund Freud Museum
 
-Including personnel (20 employees), budgeting, strategic descision making, workflow and organisation optimisation and all communication activities as well as daily routine.
+** Including personnel (20 employees), budgeting, strategic descision making, workflow and organisation optimisation and all communication activities as well as daily routine.
 
 * #freud2020 fund raising campaign
 
- Conception, set-up and follow-through of crowdfunding campaign https://freud.wemakeit.com - awarded with the Austrian Fundraising Award 2018
+** Conception, set-up and follow-through of crowdfunding campaign https://freud.wemakeit.com - awarded with the Austrian Fundraising Award 2018
 
 * Fund raising online and offline, including Events in Vienna and New York City
 
@@ -60,7 +60,7 @@ Including personnel (20 employees), budgeting, strategic descision making, workf
 * Master of Arts in Business (MA) - Executive Management, FH Wien - Vienna University of Applied Science, 2010 - 2012
 
 * *College Leadership*, WIFI Vienna, 2007 - 2008 (Certificate Course in team leadership, presentation skills and self-organisation)
-Degree in Communications and Political Science, University of Vienna, 1999 - 2004
+** Degree in Communications and Political Science, University of Vienna, 1999 - 2004
 
 # Skills
 
