@@ -2,15 +2,15 @@
 # General Site Settings
 title: Peter Nömaier
 logo: logo.svg # You can add own logo.
-description: Jung, dynamisch, gewinnendes Äußeres.
+description: Peter Noemaier CV and Personal info
 
 #-------------------------------
 # Author Settings
 author:
   name: Peter Nömaier
-  image: 01.jpg
+  image: 14.jpg
   say-hello: Hello, I’m <strong>Peter Nömaier</strong>
-  bio: Jung, dynamisch, gewinnendes Äußeres.
+  bio: Professional CV, Personal Info, Miscellaneous
 
 
 #-------------------------------
