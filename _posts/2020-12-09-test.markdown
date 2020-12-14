@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Test!"
+title:  "Welcome"
 date:   2020-12-09 18:05:55 +0300
-image:  01.jpg
-tags:   Test
+image:  13.jpg
+tags:   Welcome
 ---
 
-mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text 
+So this is my website, which will be permanently updated until I reached a level that seems concise.
 
-mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text 
+Informaiton about me, Peter Noemaier, and my different endeavours. Will be bilangual, currently mostly English.
 
-mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text mehr text 
+If any questions occur, reach out to peter@noemaier.com
+
