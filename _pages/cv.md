@@ -74,6 +74,8 @@ Leadership and Team Management
 
 Strategic Management
 
+Crisis Management
+
 Fund Raising
 
 Construction Project Management
