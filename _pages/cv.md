@@ -66,33 +66,33 @@ Degree in Communications and Political Science, University of Vienna, 1999 - 200
 
 ## Languages 
 
-German: Aber klar doch
+* German: Aber klar doch
 
-English: IELTS Score 8.0 (Very Good User) = CEFR C2
+* English: IELTS Score 8.0 (Very Good User) = CEFR C2
 
-Freench: Basic skills (6 years at school)
+* French: Basic skills (6 years at school)
 
 ## Soft Skills and Experience
 
-Leadership and Team Management
+* Leadership and Team Management
 
-Strategic Management
+* Strategic Management
 
-Crisis Management
+* Crisis Management
 
-Fund Raising
+* Fund Raising
 
-Construction Project Management
+* Construction Project Management
 
-Project Management small and large scale
+* Project Management small and large scale
 
-Corporate Communications online and off-line including campaigns and social media
+* Corporate Communications online and off-line including campaigns and social media
 
-Brand Management and Corporate Design
+* Brand Management and Corporate Design
 
-Finance Management
+* Finance Management
 
-Moderation and Representation
+* Moderation and Representation
 
 
 
