@@ -9,7 +9,7 @@ Peter Nömaier
 
 # Work
 
-## Sigmund Freud Foundation
+## Sigmund Freud Foundation 
 
 www.freud-museum.at
 
@@ -42,18 +42,21 @@ Planning and set-up of events, conferences, galas and congresses
 
 ##  Multi Art PR Agency
 
-Manager 2005
+PR and Project Manager 2005
+
+## Österreichiscer Raiffeisenverband, Brussels
+
+Internship in EU Relation office (Banking and Agriculture) 10/2004 - 1/2005
 
 
 # Education
 
-Course The Art and Science of the American Fundraising Model, King Baudoin Foundation US, New York City, 2017
+Course The Art and Science of the American Fundraising Model, King Baudoin Foundation US, New York City, April 2018
 
-Master of Arts in Business (MA) - Executive Management, FH Wien - Vienna University of Applied Science - 2012
+Master of Arts in Business (MA) - Executive Management, FH Wien - Vienna University of Applied Science, 2010 - 2012
 
-College Leadership, WIFI Vienna, 2008
-
-Degree in Communications and Political Science, University of Vienna - 2004
+College Leadership, WIFI Vienna, 2007 - 2008 (Certificate Course in team leadership, presentation skills and self-organisation)
+Degree in Communications and Political Science, University of Vienna, 1999 - 2004
 
 # Skills
 
@@ -62,6 +65,8 @@ Degree in Communications and Political Science, University of Vienna - 2004
 German: Aber klar doch
 
 English: IELTS Score 8.0 (Very Good User) = CEFR C2
+
+Freench: Basic skills (6 years at school)
 
 ##Soft Skills and Experience
 
