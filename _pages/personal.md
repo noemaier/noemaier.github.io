@@ -5,7 +5,7 @@ permalink: /personal/
 image: 12.jpg
 ---
 
-Divorced, Father of 1 (b. 2015)
+Divorced, proud and happy Father of 1 (b. 2015)
 
 Born 1980 Ried im Innkreis
 
