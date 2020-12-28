@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact/Legal
+permalink: /contact/
 image: 
 ---
+
+I shall be happy to discuss possibilities of cooperating or any other issue arising. Kindly reach out to peter@noemaier.com
 
 This is the personal webpage of Peter Noemaier. Informing about Personal and professional experience. Opinions expressed are strictly personal.
 
