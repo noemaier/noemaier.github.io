@@ -44,13 +44,23 @@ www.freud-museum.at
 * Planning and set-up of events, conferences, galas and congresses
 
 
+##  University of Applied Arts Vienna, Fachchochschule der Wirtschaftskammer Wien
+
+* Lecturer International Marketing and Sales 2016 - 2018 
+
 ##  Multi Art PR Agency
 
 * PR and Project Manager 2005
 
-## Österreichiscer Raiffeisenverband, Brussels
+## Österreichischer Raiffeisenverband, Brussels
 
 * Internship in EU Relation office (Banking and Agriculture) 10/2004 - 1/2005
+
+# Other Experience 
+
+* Jury Member Paul Watzlawick Honorary Ring of the Vienna Medical Chamber 2014 - present
+
+* Secretary and Board Member "Verein der Kaufleute Servitenviertel" - Local Commercial Association in Vienna's ninth district www.servitenviertel.at 2015 - 2020
 
 
 # Education
