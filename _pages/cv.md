@@ -5,7 +5,7 @@ permalink: /cv/
 image: 11.jpg
 ---
 
-Peter Nömaier
+Peter Nömaier, b. 1980. Citizenship: Austria. Main Language: German
 
 # Work
 
