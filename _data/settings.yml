@@ -1,7 +1,6 @@
 #-------------------------------
 # General Site Settings
 title: Peter Nömaier
-logo: logo.svg # You can add own logo.
 description: Peter Noemaier CV and Personal info
 
 #-------------------------------
@@ -9,7 +8,7 @@ description: Peter Noemaier CV and Personal info
 author:
   name: Peter Nömaier
   image: 14.jpg
-  say-hello: Hello, I’m <strong>Peter Nömaier</strong>
+  say-hello: Welcome to my personal web page
   bio: Professional CV, Personal Info, Miscellaneous
 
 
