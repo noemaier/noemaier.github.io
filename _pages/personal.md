@@ -13,5 +13,11 @@ Grown up in Reichersberg, Upper Austria
 
 Interest in Literature, Politics, Arts, History, Football and other important things
 
-Active in Tennis, Hiking, Travelling and Cycling. Tremendous footage on the latter can be found Here: https://youtu.be/0XaO3iTv82Q - and yes, I am on Strava
+Active in Tennis, Hiking, Travelling and Cycling. 
+See an example of the tremendous footage produced ad the rides:
+
+<iframe src="https://www.youtube.com/embed/0XaO3iTv82Q" frameborder="0" allowfullscreen></iframe>
+
+
+- and yes, I am on Strava
 
