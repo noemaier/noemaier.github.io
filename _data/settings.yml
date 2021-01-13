@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Peter Nömaier
+title: noemaier
 description: Peter Noemaier CV and Personal info
 
 #-------------------------------
@@ -8,8 +8,9 @@ description: Peter Noemaier CV and Personal info
 author:
   name: Peter Nömaier
   image: 14.jpg
-  say-hello: Welcome to my personal web page
+  say-hello: Welcome
   bio: Professional CV, Personal Info, Miscellaneous
+  (btw, this is me riding at the Grossglockner)
 
 
 #-------------------------------
