@@ -3,7 +3,6 @@ layout: page
 title: Personal
 permalink: /personal/
 image: 12.jpg
-position: 3
 ---
 
 Divorced, proud and happy Father of 1 (b. 2015)
