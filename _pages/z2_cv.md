@@ -3,13 +3,14 @@ layout: page
 title: CV
 permalink: /cv/
 image: 11.jpg
+position: 2
 ---
 
 Peter Nömaier, b. 1980. Citizenship: Austria. Main Language: German
 
 # Work
 
-## Sigmund Freud Foundation 
+## Sigmund Freud Foundation
 
 www.freud-museum.at
 
@@ -46,7 +47,7 @@ www.freud-museum.at
 
 ##  University of Applied Arts Vienna, Fachchochschule der Wirtschaftskammer Wien
 
-* Lecturer International Marketing and Sales 2016 - 2018 
+* Lecturer International Marketing and Sales 2016 - 2018
 
 ##  Multi Art PR Agency
 
@@ -56,7 +57,7 @@ www.freud-museum.at
 
 * Internship in EU Relation office (Banking and Agriculture) 10/2004 - 1/2005
 
-# Other Experience 
+# Other Experience
 
 * Jury Member Paul Watzlawick Honorary Ring of the Vienna Medical Chamber 2014 - present
 
@@ -74,7 +75,7 @@ www.freud-museum.at
 
 # Skills
 
-## Languages 
+## Languages
 
 * German: Aber klar doch
 

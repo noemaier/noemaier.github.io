@@ -2,7 +2,8 @@
 layout: page
 title: Contact/Legal
 permalink: /contact/
-image: 
+image:
+position: 4
 ---
 
 I shall be happy to discuss possibilities of cooperating or any other issue arising. Kindly reach out to peter@noemaier.com
