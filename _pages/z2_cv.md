@@ -9,8 +9,7 @@ Peter Nömaier, b. 1980. Citizenship: Austria. Main Language: German
 
 # Work
 
-## Sigmund Freud Foundation
-
+## Sigmund Freud Foundation 
 www.freud-museum.at
 
 * Chairman of the board 2016 - present
@@ -23,25 +22,25 @@ www.freud-museum.at
 
 * Head of Communications 2006 - 2007
 
-* Board Member American Friends of the Sigmund Freud Museun, New York City 2016 - present
+* Board Member American Friends of the Sigmund Freud Museum, New York City 2016 - present
 
-### Activities and Projects
+### Activities and Projects#
 
-* Sigmund Freud Museum 2020 - 2017 - 2020:
+**General Management of the Sigmund Freud Museum
 
-** Renovation and Refurbishment project - responsible for project, including especially financial and organisaitonal aspects and coordination and control of construction work and companies. Including negotiations and contracting as well as communication with donors and supporters private and public. Volume: 4 million Euros.
+Final responsibility for all affairs, including personnel (20 employees), budgeting, strategic descision making, workflow and organisation optimisation and all marketing and communication activities as well as daily routine.
 
-* General Management of the Sigmund Freud Museum
+**Complete renovatíon and refurbishment of the Sigmund Freud Museum 2017 - 2020:
 
-** Including personnel (20 employees), budgeting, strategic descision making, workflow and organisation optimisation and all communication activities as well as daily routine.
+Responsible for project, including especially financial and organisaitonal aspects and coordination and control of construction work and companies. Including negotiations and contracting as well as communication with donors and supporters private and public. Volume: 4 million Euros.
 
-* #freud2020 fund raising campaign
+**#freud2020 fund raising campaign
 
-** Conception, set-up and follow-through of crowdfunding campaign https://freud.wemakeit.com - awarded with the Austrian Fundraising Award 2018
+Conception, set-up and follow-through of crowdfunding campaign https://freud.wemakeit.com - awarded with the Austrian Fundraising Award 2018
 
-* Fund raising online and offline, including Events in Vienna and New York City
+**Fund raising online and offline, including Events in Vienna and New York City
 
-* Planning and set-up of events, conferences, galas and congresses
+**Planning and set-up of events, conferences, galas and congresses
 
 
 ##  University of Applied Arts Vienna, Fachchochschule der Wirtschaftskammer Wien
@@ -69,8 +68,9 @@ www.freud-museum.at
 
 * Master of Arts in Business (MA) - Executive Management, FH Wien - Vienna University of Applied Science, 2010 - 2012
 
-* *College Leadership*, WIFI Vienna, 2007 - 2008 (Certificate Course in team leadership, presentation skills and self-organisation)
-** Degree in Communications and Political Science, University of Vienna, 1999 - 2004
+* College Leadership*, WIFI Vienna, 2007 - 2008 (Certificate Course in team leadership, presentation skills and self-organisation)
+
+* Degree in Communications and Political Science, University of Vienna, 1999 - 2004
 
 # Skills
 
@@ -90,6 +90,8 @@ www.freud-museum.at
 
 * Crisis Management
 
+* Negotiations with business partners, private and public funders and personnel in German and English
+
 * Fund Raising
 
 * Construction Project Management
@@ -98,13 +100,8 @@ www.freud-museum.at
 
 * Corporate Communications online and off-line including campaigns and social media
 
-* Brand Management and Corporate Design
+* Brand Management and Corporate Design management
 
 * Finance Management
 
 * Moderation and Representation
-
-
-
-
-https://kramdown.gettalong.org/quickref.html
