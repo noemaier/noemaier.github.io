@@ -13,7 +13,7 @@ Grown up in Reichersberg, Upper Austria
 
 Interest in literature, politics, arts, history, football, music and other important things
 
-active in tennis, hiking, travelling and cycling.
+Active in tennis, hiking, travelling and cycling.
 See an example of the tremendous footage produced ad the rides:
 
 <iframe src="https://www.youtube.com/embed/0XaO3iTv82Q" frameborder="0" allowfullscreen></iframe>
