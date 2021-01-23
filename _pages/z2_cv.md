@@ -5,7 +5,7 @@ permalink: /cv/
 image: 11.jpg
 ---
 
-Peter Nömaier, b. 1980. Citizenship: Austria. Main Language: German
+Peter Nömaier, b. 1980. Citizenship: Austria. Main language: German
 
 # Work
 
@@ -43,7 +43,7 @@ Conception, set-up and follow-through of crowdfunding campaign https://freud.wem
 **Planning and set-up of events, conferences, galas and congresses
 
 
-##  University of Applied Arts Vienna, Fachchochschule der Wirtschaftskammer Wien
+##  University of Applied Arts Vienna, Fachhochschule der Wirtschaftskammer Wien
 
 * Lecturer International Marketing and Sales 2016 - 2018
 
