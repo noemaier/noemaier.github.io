@@ -9,7 +9,7 @@ Peter Nömaier, b. 1980. Citizenship: Austria. Main language: German
 
 # Work
 
-{% highlight markdown %}
+
 ## Sigmund Freud Foundation 
 www.freud-museum.at
 
@@ -43,39 +43,28 @@ Conception, set-up and follow-through of crowdfunding campaign https://freud.wem
 
 * Planning and set-up of events, conferences, galas and congresses
 
-{% endhighlight %}
-
-{% highlight markdown %}
 
 ##  University of Applied Science Vienna, Fachhochschule der Wirtschaftskammer Wien
 
 * Lecturer International Marketing and Sales 2016 - 2018
-{% endhighlight %}
 
-{% highlight markdown %}
 
 ##  Multi Art PR Agency
 
 * PR and Project Manager 2005
-{% endhighlight %}
 
-{% highlight markdown %}
 
 ## Österreichischer Raiffeisenverband, Brussels
 
 * Internship in EU Relation office (Banking and Agriculture) 10/2004 - 1/2005
-{% endhighlight %}
 
-{% highlight markdown %}
 
 # Other Experience
 
 * Jury Member Paul Watzlawick Honorary Ring of the Vienna Medical Chamber 2014 - present
 
 * Secretary and Board Member "Verein der Kaufleute Servitenviertel" - Local Commercial Association in Vienna's ninth district www.servitenviertel.at 2015 - 2020
-{% endhighlight %}
 
-{% highlight markdown %}
 
 # Education
 
@@ -86,9 +75,7 @@ Conception, set-up and follow-through of crowdfunding campaign https://freud.wem
 * College Leadership*, WIFI Vienna, 2007 - 2008 (Certificate Course in team leadership, presentation skills and self-organisation)
 
 * Degree in Communications and Political Science, University of Vienna, 1999 - 2004
-{% endhighlight %}
 
-{% highlight markdown %}
 
 # Skills
 
@@ -123,4 +110,4 @@ Conception, set-up and follow-through of crowdfunding campaign https://freud.wem
 * Finance Management
 
 * Moderation and Representation
-* {% endhighlight %}
+
